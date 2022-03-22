@@ -1,0 +1,7 @@
+opencv-python
+numpy
+scipy
+matplotlib
+jupyterlab
+
+# conda install -c anaconda tensorflow-gpu
